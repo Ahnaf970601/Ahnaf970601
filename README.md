@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Ahnaf Ahmed
+I'm a Front-End Developer with a strong foundation in data analytics and a passion for building responsive, high-performance web applications. I specialize in using React, Next.js, and Tailwind CSS to create intuitive user experiences, and I bring analytical depth with tools like Python, SQL, and Power BI to turn data into actionable insights.
 
-<!--
-**Ahnaf970601/Ahnaf970601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+On this GitHub, you'll find a mix of personal projects, hackathon builds, and academic work that reflect my experience with full-stack development, RESTful APIs, real-time dashboards, and machine learning prototypes. I'm particularly interested in solving real-world problems through code — whether that's predicting football player performance, analyzing sentiment on electric vehicles, or developing collaborative filtering recommender systems.
 
-Here are some ideas to get you started:
+🔧 Languages & Tools
+JavaScript • Python • SQL • React • Next.js • Node.js • Prisma • Supabase • Flask • Power BI • Firebase • Git • Heroku
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects You Should Check Out
+🧠 Football Player Performance Predictor – Flask + ML + Heroku
+
+🎬 Movie Recommender System – Python, collaborative filtering
+
+🌊 Sonar Signal Classifier – Logistic regression model with Python
+
+📊 Retail Dashboard – Power BI & SQL for customer segmentation
