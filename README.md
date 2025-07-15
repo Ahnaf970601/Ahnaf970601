@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [bit.ly/ahnaf970601](https://1drv.ms/b/c/d268639ef650842b/EaMaMsh9P0lDi-3DZDorF1IBEDcErZu5h-66DoIvxzLixw?e=33gMom)
 
-- ⚡ Fun fact **I’ve led a 12-person dev team at HackTheBrain**
+- ⚡ Fun fact **I know Muay Thai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
